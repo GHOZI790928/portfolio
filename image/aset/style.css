@@ -1,0 +1,6 @@
+.gambar{
+    background-color: rgb(157, 255, 0) 50px;
+    background-image: -webkit-image-set(50px);
+    padding: 1rem;
+    font-weight: 300 blue;
+}
